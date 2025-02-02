@@ -56,7 +56,7 @@ The game is hosted online for easy access. Play the game here:
 [**Dragon Picker Online Game Link**](https://simmer.io/@Asyazhq/dragon-picker)
 
 ## Video Demonstration
-Watch the full gameplay demonstration here: [**Gameplay Video Link**](https://youtu.be/AmFhGIt9LbM)
+Watch the full gameplay demonstration here: [**Gameplay Video Link**](https://youtu.be/RiQdf1v3QRk)
 
 ## Credits
 This project was developed by Assem Zhakanova as part of a Introduction to Game Development course assignment. 
