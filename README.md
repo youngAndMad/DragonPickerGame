@@ -59,5 +59,5 @@ The game is hosted online for easy access. Play the game here:
 Watch the full gameplay demonstration here: [**Gameplay Video Link**](https://youtu.be/RiQdf1v3QRk)
 
 ## Credits
-This project was developed by Assem Zhakanova as part of a Introduction to Game Development course assignment. 
+This project was developed by Daneker Kaliaskaruly as part of a Introduction to Game Development course assignment. 
 
