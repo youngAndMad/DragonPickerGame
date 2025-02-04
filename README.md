@@ -51,13 +51,6 @@ This project is a Unity-based game. The game features engaging mechanics and sho
    - Choose "WebGL" as the platform.
    - Click "Build and Run."
 
-### Play Online
-The game is hosted online for easy access. Play the game here:
-[**Dragon Picker Online Game Link**](https://simmer.io/@Asyazhq/dragon-picker)
-
-## Video Demonstration
-Watch the full gameplay demonstration here: [**Gameplay Video Link**](https://youtu.be/RiQdf1v3QRk)
-
 ## Credits
 This project was developed by Daneker Kaliaskaruly as part of a Introduction to Game Development course assignment. 
 
